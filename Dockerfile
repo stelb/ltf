@@ -1,4 +1,4 @@
-# syntax=docker/dockerfile:1.2
+# syntax=docker/dockerfile:1.10
 
 ARG BASE_IMAGE=alpine:latest
 # ARG BASE_IMAGE=ubuntu:focal
